@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<request action="FIND" version="1.0">
+<request action="GET" version="1.0">
   <customer>
-    
+    <name>DA</name>
   </customer>
 </request>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<response version="1.0">
+  <customer>
+    <name>DA</name>
+    <id>23</id>
+    <fullname>Demo Also</fullname>
+    <billingid />
+    <primarydomain>nervogrid.com</primarydomain>
+    <status>Provisioned</status>
+    <approvalpending>False</approvalpending>
+  </customer>
+</response>

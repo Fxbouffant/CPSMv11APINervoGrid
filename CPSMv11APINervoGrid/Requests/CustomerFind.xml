@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<request action="FIND" version="1.0">
+  <customer>
+    <name>DA</name>
+    <id>23</id>
+    <fullname>Demo Also</fullname>
+    <primarydomain>nervogrid.com</primarydomain>
+    <status>Provisioned</status>
+  </customer>
+</request>
