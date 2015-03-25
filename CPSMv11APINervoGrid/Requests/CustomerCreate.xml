@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<request action="SET" trace="true" version="1.0">
+  <customer>
+    <fullname>Test Customer 1</fullname>
+    <contactname>Germans Ribakovs</contactname>
+    <contactemail>germans.ribakovs@nervogrid.com</contactemail>
+    <primarydomain>nervogrid.com</primarydomain>
+    <address>Liliju iela 29</address>
+    <properties>
+      <property>
+        <name>ContactEmailAddress</name>
+        <value>germans.ribakovs@nervogrid.com</value>
+      </property>
+      <property>
+        <name>City</name>
+        <value>Mārupe</value>
+      </property>
+      <property>
+        <name>Country</name>
+        <value>Latvia</value>
+      </property>
+      <property>
+        <name>ZipCode</name>
+        <value>LV-2167</value>
+      </property>
+    </properties>
+  </customer>
+</request>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<request action="GET" version="1.0">
+  <customer>
+    <name>DA</name>
+    <properties detail="true"/>
+  </customer>
+</request>

@@ -1,0 +1,1994 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<response version="1.0">
+  <customer>
+    <name>DA</name>
+    <id>23</id>
+    <fullname>Demo Also</fullname>
+    <location>Location GSP</location>
+    <billingid />
+    <primarydomain>nervogrid.com</primarydomain>
+    <parent>
+      <name>Gsp</name>
+      <id>1</id>
+      <fullname>Globalsp</fullname>
+      <billingid />
+      <primarydomain>pp-exchange.local</primarydomain>
+    </parent>
+    <contactname>Aleksandrs Selickis</contactname>
+    <contactemail>aleksandrs.selickis@nervogrid.com</contactemail>
+    <address>Liliju iela 29</address>
+    <phone />
+    <fax />
+    <customerou>Customers</customerou>
+    <customeroustructure>ungrouped</customeroustructure>
+    <domains>
+      <domain>nervogrid.com</domain>
+    </domains>
+    <locations>
+      <name>Unassigned</name>
+    </locations>
+    <departments>
+      <name>Unassigned</name>
+    </departments>
+    <password>
+      <minimumlength>7</minimumlength>
+      <bannerdisplaydays>0</bannerdisplaydays>
+      <changeatnextlogon>False</changeatnextlogon>
+      <allowneverexpires>False</allowneverexpires>
+    </password>
+    <roles>
+      <role id="{b1d29de6-01b4-4a29-bc88-9f61832dc5d3}">AD Sync Administrator</role>
+      <role id="{73f350bb-7c1f-4a10-9603-37f6b799c6e9}">Antispam avancÃ© Service Administrator</role>
+      <role id="{756d683d-0f2d-41f1-baf8-4233134a493a}">BlackBerry 5 Service Administrator</role>
+      <role id="{0676b4f2-a2e8-40ca-8d70-0e8bbcec786c}">Citrix Service Administrator</role>
+      <role id="{3186b9ff-1419-4b27-b729-57ed63b17c17}">CloudBackup Service Administrator</role>
+      <role id="{55f573ec-de0d-4c7c-b1d9-7a9620ca8be7}">CloudBackup User</role>
+      <role id="{ad279ab4-0429-40ec-b767-3f43a4490a05}">CRM 2011 Administrator</role>
+      <role id="{c27d3a7e-323f-4f3e-8fe7-3c385badd9aa}">CRM 2011 User</role>
+      <role id="{8b218c71-c026-4866-91f1-11b08cc46ab1}">Customer Administrator</role>
+      <role id="{540e42b6-4988-4af4-9fcc-1ae61583c2bc}">DNS Service Administrator</role>
+      <role id="{d9eb5104-fd74-4685-8578-beaccf77ebd1}">Exchange Service Administrator</role>
+      <role id="{3af09997-428e-40de-9fa1-c2c7f9446121}">Exchange Users</role>
+      <role id="{aaf4de5e-f48c-46fe-8c18-56ede6d01d4b}">FaxInMail Service Administrator</role>
+      <role id="{a73be498-c13d-47ad-a376-142be3072ced}">FaxInMail User</role>
+      <role id="{1817bb97-7dca-40fe-bbd8-abeecd55fa7c}">File Sharing Service Administrator</role>
+      <role id="{7e5f9f11-5566-4037-8440-0992d538b668}">Hosted Apps and Desktops Service Administrator</role>
+      <role id="{e0643988-deb2-4b0f-b28b-8017a7f5e7d8}">Hosted Apps and Desktops User</role>
+      <role id="{1c49c96b-54ba-4c39-b581-465c3e016cad}">Licences Outlook Service Administrator</role>
+      <role id="{76a9e6c9-35fe-43c9-986e-4c34f6ce73c4}">Lync Enterprise Service Administrator</role>
+      <role id="{b0c371eb-b238-4481-9328-7c07899face2}">Lync Enterprise User</role>
+      <role id="{4c5155d8-1acd-47f0-b8e7-273db87ea968}">Lync Hosted 2013 Service Administrator</role>
+      <role id="{80014ec0-8bb9-4b85-8e89-14c4a9c8707a}">Lync Hosted 2013 User</role>
+      <role id="{a36686dc-063d-4916-bac7-8a6b22d28a5a}">Mail Archiving Service Administrator</role>
+      <role id="{59790933-09dc-4de4-9f3a-905a64eb86dd}">Mobile Devices Service Administrator</role>
+      <role id="{9366d427-ce85-42b8-8b2d-c4b2958538e1}">Mobile Devices User</role>
+      <role id="{f4c80fa7-fb3a-459c-8588-df7e0341d074}">My CloudBackup Service</role>
+      <role id="{4650396d-0b7a-4273-a98f-13e834394883}">My Exchange Service</role>
+      <role id="{0797047a-397f-4398-b982-d0eec021d650}">MySQL Administrator</role>
+      <role id="{c0b2627d-408a-409f-9b22-c707fa5c53bc}">OCS Service Administrator</role>
+      <role id="{1c6db635-9d3b-4cf7-9308-369fa2587696}">OCS User</role>
+      <role id="{80c552f6-be9f-49cf-a237-a0b2ac3128c3}">Partial User Administrator (Reset Passwords)</role>
+      <role id="{bedf8364-4df8-4e68-82db-62c8b24b7a21}">RDS Service Administrator</role>
+      <role id="{99a7b56b-ea73-4b6a-9714-1b2335b00aaa}">RDS User</role>
+      <role id="{b4f2aee9-2630-4237-8013-6d245b44c48e}">Reporting Users</role>
+      <role id="{9d4348a8-34b1-4325-acde-7903dc0164a6}">Reseller Full Administrator</role>
+      <role id="{e571a437-86c2-4af6-9638-8c00b7d0d182}">Reseller Partial Administrator</role>
+      <role id="{b0c46225-0db7-4384-9304-1a299f57f2a0}">Service Administrator</role>
+      <role id="{1eb1b3ee-5c65-4bc7-a297-efb0dec08303}">SharePoint 2010 Service Administrator</role>
+      <role id="{87b89ee5-695d-48b9-942c-0c514d98b167}">SQL Service Administrator</role>
+      <role id="{2bc33a6b-ef15-41cd-91b1-ba14ddd817a8}">SQL Users</role>
+      <role id="{02051d46-1a97-495e-8be5-ae2ba30c0ae0}">Support Service Administrator</role>
+      <role id="{c3347ae9-c071-441a-8eea-b59075aea717}">Support User</role>
+      <role id="{ce7b2fe0-c2e2-4efb-b907-7c04efe70b75}">TestService Service Administrator</role>
+      <role id="{e1be686e-bb5a-48e6-8e66-3ae4969b40de}">TestService User</role>
+      <role id="{ba0fdafa-cc13-40ab-9a04-9799607ecb21}">User Administrator</role>
+      <role id="{35a4bc5f-59df-43e1-94e4-0bc706b33125}">User and Service Administrator</role>
+      <role id="{cd79e59d-c2f9-4e6f-a243-41f67e3f35ee}">Virtual Machine Administrator</role>
+      <role id="{54baeeaa-3c97-42f2-89fd-59f77cc82706}">Windows Web Hosting Service Administrator</role>
+    </roles>
+    <enabled>True</enabled>
+    <status>Provisioned</status>
+    <approvalpending>False</approvalpending>
+    <properties>
+      <property>
+        <name>FullName</name>
+        <fullname>Full Name</fullname>
+        <mandatory>True</mandatory>
+        <value>Demo Also</value>
+        <category />
+        <description />
+        <sortorder>10</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Customer Full Name</name>
+          <type>RegularExpression</type>
+          <errormessage>A valid customer long name must be specified</errormessage>
+          <value>^[\p{L}\p{N} .-]{1,60}$</value>
+        </validation>
+      </property>
+      <property>
+        <name>ShortName</name>
+        <fullname>Code</fullname>
+        <mandatory>True</mandatory>
+        <value>DA</value>
+        <category />
+        <description />
+        <sortorder>20</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Customer Short Name</name>
+          <type>RegularExpression</type>
+          <errormessage>A valid customer short name must be specified</errormessage>
+          <value>^[A-Za-z0-9]{1,20}$</value>
+        </validation>
+      </property>
+      <property>
+        <name>ContactName</name>
+        <fullname>Contact Name</fullname>
+        <mandatory>True</mandatory>
+        <value>Aleksandrs Selickis</value>
+        <category />
+        <description />
+        <sortorder>30</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>ContactEmailAddress</name>
+        <fullname>Contact Email Address</fullname>
+        <mandatory>True</mandatory>
+        <value>aleksandrs.selickis@nervogrid.com</value>
+        <category>General</category>
+        <description />
+        <sortorder>40</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>CustomerContactEmail</name>
+          <type>ValidationControl</type>
+          <errormessage>The current contact email address cannot be used.</errormessage>
+          <path>/CortexDotNet/Customer/Controls/uc_CustomerContactEmail.ascx</path>
+        </validation>
+      </property>
+      <property>
+        <name>Address</name>
+        <fullname>Address</fullname>
+        <mandatory>True</mandatory>
+        <value>Liliju iela 29</value>
+        <category>General</category>
+        <description />
+        <sortorder>50</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute>street</adattribute>
+        <validation>
+          <name>TextArea</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>City</name>
+        <fullname>City</fullname>
+        <mandatory>True</mandatory>
+        <value>MÄrupe</value>
+        <category>General</category>
+        <description />
+        <sortorder>60</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute>l</adattribute>
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>Country</name>
+        <fullname>Country</fullname>
+        <mandatory>True</mandatory>
+        <value>Latvia</value>
+        <category>General</category>
+        <description />
+        <sortorder>80</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute>co</adattribute>
+        <validation>
+          <name>UserCountryCodeCheck</name>
+          <type>SQLQueryDDL</type>
+          <errormessage>A Country must be selected</errormessage>
+          <options>
+            <option>
+              <name>Afghanistan</name>
+              <value>Afghanistan</value>
+            </option>
+            <option>
+              <name>Aland Islands</name>
+              <value>Aland Islands</value>
+            </option>
+            <option>
+              <name>Albania</name>
+              <value>Albania</value>
+            </option>
+            <option>
+              <name>Algeria</name>
+              <value>Algeria</value>
+            </option>
+            <option>
+              <name>American Samoa</name>
+              <value>American Samoa</value>
+            </option>
+            <option>
+              <name>Andorra</name>
+              <value>Andorra</value>
+            </option>
+            <option>
+              <name>Angola</name>
+              <value>Angola</value>
+            </option>
+            <option>
+              <name>Anguilla</name>
+              <value>Anguilla</value>
+            </option>
+            <option>
+              <name>Antarctica</name>
+              <value>Antarctica</value>
+            </option>
+            <option>
+              <name>Antigua And Barbuda</name>
+              <value>Antigua And Barbuda</value>
+            </option>
+            <option>
+              <name>Argentina</name>
+              <value>Argentina</value>
+            </option>
+            <option>
+              <name>Armenia</name>
+              <value>Armenia</value>
+            </option>
+            <option>
+              <name>Aruba</name>
+              <value>Aruba</value>
+            </option>
+            <option>
+              <name>Australia</name>
+              <value>Australia</value>
+            </option>
+            <option>
+              <name>Australian Antarctic Territory</name>
+              <value>Australian Antarctic Territory</value>
+            </option>
+            <option>
+              <name>Austria</name>
+              <value>Austria</value>
+            </option>
+            <option>
+              <name>Azerbaijan</name>
+              <value>Azerbaijan</value>
+            </option>
+            <option>
+              <name>Bahamas</name>
+              <value>Bahamas</value>
+            </option>
+            <option>
+              <name>Bahrain</name>
+              <value>Bahrain</value>
+            </option>
+            <option>
+              <name>Bangladesh</name>
+              <value>Bangladesh</value>
+            </option>
+            <option>
+              <name>Barbados</name>
+              <value>Barbados</value>
+            </option>
+            <option>
+              <name>Belarus</name>
+              <value>Belarus</value>
+            </option>
+            <option>
+              <name>Belgium</name>
+              <value>Belgium</value>
+            </option>
+            <option>
+              <name>Belize</name>
+              <value>Belize</value>
+            </option>
+            <option>
+              <name>Benin</name>
+              <value>Benin</value>
+            </option>
+            <option>
+              <name>Bermuda</name>
+              <value>Bermuda</value>
+            </option>
+            <option>
+              <name>Bhutan</name>
+              <value>Bhutan</value>
+            </option>
+            <option>
+              <name>Bolivia</name>
+              <value>Bolivia</value>
+            </option>
+            <option>
+              <name>Bosnia And Herzegowina</name>
+              <value>Bosnia And Herzegowina</value>
+            </option>
+            <option>
+              <name>Botswana</name>
+              <value>Botswana</value>
+            </option>
+            <option>
+              <name>Bouvet Island</name>
+              <value>Bouvet Island</value>
+            </option>
+            <option>
+              <name>Brazil</name>
+              <value>Brazil</value>
+            </option>
+            <option>
+              <name>British Antarctic Territory</name>
+              <value>British Antarctic Territory</value>
+            </option>
+            <option>
+              <name>British Indian Ocean Territory</name>
+              <value>British Indian Ocean Territory</value>
+            </option>
+            <option>
+              <name>Brunei Darussalam</name>
+              <value>Brunei Darussalam</value>
+            </option>
+            <option>
+              <name>Bulgaria</name>
+              <value>Bulgaria</value>
+            </option>
+            <option>
+              <name>Burkina Faso</name>
+              <value>Burkina Faso</value>
+            </option>
+            <option>
+              <name>Burundi</name>
+              <value>Burundi</value>
+            </option>
+            <option>
+              <name>Cambodia</name>
+              <value>Cambodia</value>
+            </option>
+            <option>
+              <name>Cameroon</name>
+              <value>Cameroon</value>
+            </option>
+            <option>
+              <name>Canada</name>
+              <value>Canada</value>
+            </option>
+            <option>
+              <name>Cape Verde</name>
+              <value>Cape Verde</value>
+            </option>
+            <option>
+              <name>Cayman Islands</name>
+              <value>Cayman Islands</value>
+            </option>
+            <option>
+              <name>Central African Republic</name>
+              <value>Central African Republic</value>
+            </option>
+            <option>
+              <name>Chad</name>
+              <value>Chad</value>
+            </option>
+            <option>
+              <name>Chile</name>
+              <value>Chile</value>
+            </option>
+            <option>
+              <name>China</name>
+              <value>China</value>
+            </option>
+            <option>
+              <name>Christmas Island</name>
+              <value>Christmas Island</value>
+            </option>
+            <option>
+              <name>Cocos (Keeling) Islands</name>
+              <value>Cocos (Keeling) Islands</value>
+            </option>
+            <option>
+              <name>Colombia</name>
+              <value>Colombia</value>
+            </option>
+            <option>
+              <name>Comoros</name>
+              <value>Comoros</value>
+            </option>
+            <option>
+              <name>Congo</name>
+              <value>Congo</value>
+            </option>
+            <option>
+              <name>Congo (Drc)</name>
+              <value>Congo (Drc)</value>
+            </option>
+            <option>
+              <name>Cook Islands</name>
+              <value>Cook Islands</value>
+            </option>
+            <option>
+              <name>Costa Rica</name>
+              <value>Costa Rica</value>
+            </option>
+            <option>
+              <name>Cote D ivoire</name>
+              <value>Cote D ivoire</value>
+            </option>
+            <option>
+              <name>Croatia</name>
+              <value>Croatia</value>
+            </option>
+            <option>
+              <name>Cuba</name>
+              <value>Cuba</value>
+            </option>
+            <option>
+              <name>Cyprus</name>
+              <value>Cyprus</value>
+            </option>
+            <option>
+              <name>Czech Republic</name>
+              <value>Czech Republic</value>
+            </option>
+            <option>
+              <name>Denmark</name>
+              <value>Denmark</value>
+            </option>
+            <option>
+              <name>Djibouti</name>
+              <value>Djibouti</value>
+            </option>
+            <option>
+              <name>Dominica</name>
+              <value>Dominica</value>
+            </option>
+            <option>
+              <name>Dominican Republic</name>
+              <value>Dominican Republic</value>
+            </option>
+            <option>
+              <name>Ecuador</name>
+              <value>Ecuador</value>
+            </option>
+            <option>
+              <name>Egypt</name>
+              <value>Egypt</value>
+            </option>
+            <option>
+              <name>El Salvador</name>
+              <value>El Salvador</value>
+            </option>
+            <option>
+              <name>Equatorial Guinea</name>
+              <value>Equatorial Guinea</value>
+            </option>
+            <option>
+              <name>Eritrea</name>
+              <value>Eritrea</value>
+            </option>
+            <option>
+              <name>Estonia</name>
+              <value>Estonia</value>
+            </option>
+            <option>
+              <name>Ethiopia</name>
+              <value>Ethiopia</value>
+            </option>
+            <option>
+              <name>Falkland Islands (Malvinas)</name>
+              <value>Falkland Islands (Malvinas)</value>
+            </option>
+            <option>
+              <name>Faroe Islands</name>
+              <value>Faroe Islands</value>
+            </option>
+            <option>
+              <name>Fiji</name>
+              <value>Fiji</value>
+            </option>
+            <option>
+              <name>Finland</name>
+              <value>Finland</value>
+            </option>
+            <option>
+              <name>France</name>
+              <value>France</value>
+            </option>
+            <option>
+              <name>French Guiana</name>
+              <value>French Guiana</value>
+            </option>
+            <option>
+              <name>French Polynesia</name>
+              <value>French Polynesia</value>
+            </option>
+            <option>
+              <name>French Southern Territories</name>
+              <value>French Southern Territories</value>
+            </option>
+            <option>
+              <name>Gabon</name>
+              <value>Gabon</value>
+            </option>
+            <option>
+              <name>Gambia</name>
+              <value>Gambia</value>
+            </option>
+            <option>
+              <name>Georgia</name>
+              <value>Georgia</value>
+            </option>
+            <option>
+              <name>Germany</name>
+              <value>Germany</value>
+            </option>
+            <option>
+              <name>Ghana</name>
+              <value>Ghana</value>
+            </option>
+            <option>
+              <name>Gibraltar</name>
+              <value>Gibraltar</value>
+            </option>
+            <option>
+              <name>Greece</name>
+              <value>Greece</value>
+            </option>
+            <option>
+              <name>Greenland</name>
+              <value>Greenland</value>
+            </option>
+            <option>
+              <name>Grenada</name>
+              <value>Grenada</value>
+            </option>
+            <option>
+              <name>Guadeloupe</name>
+              <value>Guadeloupe</value>
+            </option>
+            <option>
+              <name>Guam</name>
+              <value>Guam</value>
+            </option>
+            <option>
+              <name>Guatemala</name>
+              <value>Guatemala</value>
+            </option>
+            <option>
+              <name>Guernsey</name>
+              <value>Guernsey</value>
+            </option>
+            <option>
+              <name>Guinea</name>
+              <value>Guinea</value>
+            </option>
+            <option>
+              <name>Guinea-Bissau</name>
+              <value>Guinea-Bissau</value>
+            </option>
+            <option>
+              <name>Guyana</name>
+              <value>Guyana</value>
+            </option>
+            <option>
+              <name>Haiti</name>
+              <value>Haiti</value>
+            </option>
+            <option>
+              <name>Heard And Mc Donald Islands</name>
+              <value>Heard And Mc Donald Islands</value>
+            </option>
+            <option>
+              <name>Honduras</name>
+              <value>Honduras</value>
+            </option>
+            <option>
+              <name>Hong Kong</name>
+              <value>Hong Kong</value>
+            </option>
+            <option>
+              <name>Hungary</name>
+              <value>Hungary</value>
+            </option>
+            <option>
+              <name>Iceland</name>
+              <value>Iceland</value>
+            </option>
+            <option>
+              <name>India</name>
+              <value>India</value>
+            </option>
+            <option>
+              <name>Indonesia</name>
+              <value>Indonesia</value>
+            </option>
+            <option>
+              <name>Iran (Islamic Republic Of)</name>
+              <value>Iran (Islamic Republic Of)</value>
+            </option>
+            <option>
+              <name>Iraq</name>
+              <value>Iraq</value>
+            </option>
+            <option>
+              <name>Ireland</name>
+              <value>Ireland</value>
+            </option>
+            <option>
+              <name>Isle of Man</name>
+              <value>Isle of Man</value>
+            </option>
+            <option>
+              <name>Israel</name>
+              <value>Israel</value>
+            </option>
+            <option>
+              <name>Italy</name>
+              <value>Italy</value>
+            </option>
+            <option>
+              <name>Jamaica</name>
+              <value>Jamaica</value>
+            </option>
+            <option>
+              <name>Japan</name>
+              <value>Japan</value>
+            </option>
+            <option>
+              <name>Jersey</name>
+              <value>Jersey</value>
+            </option>
+            <option>
+              <name>Jordan</name>
+              <value>Jordan</value>
+            </option>
+            <option>
+              <name>Kazakhstan</name>
+              <value>Kazakhstan</value>
+            </option>
+            <option>
+              <name>Kenya</name>
+              <value>Kenya</value>
+            </option>
+            <option>
+              <name>Kiribati</name>
+              <value>Kiribati</value>
+            </option>
+            <option>
+              <name>Korea, Democratic People s Republic Of</name>
+              <value>Korea, Democratic People s Republic Of</value>
+            </option>
+            <option>
+              <name>Korea, Republic Of</name>
+              <value>Korea, Republic Of</value>
+            </option>
+            <option>
+              <name>Kuwait</name>
+              <value>Kuwait</value>
+            </option>
+            <option>
+              <name>Kyrgyzstan</name>
+              <value>Kyrgyzstan</value>
+            </option>
+            <option>
+              <name>Lao People s Democratic Republic</name>
+              <value>Lao People s Democratic Republic</value>
+            </option>
+            <option>
+              <name>Latvia</name>
+              <value>Latvia</value>
+            </option>
+            <option>
+              <name>Lebanon</name>
+              <value>Lebanon</value>
+            </option>
+            <option>
+              <name>Lesotho</name>
+              <value>Lesotho</value>
+            </option>
+            <option>
+              <name>Liberia</name>
+              <value>Liberia</value>
+            </option>
+            <option>
+              <name>Libyan Arab Jamahiriya</name>
+              <value>Libyan Arab Jamahiriya</value>
+            </option>
+            <option>
+              <name>Liechtenstein</name>
+              <value>Liechtenstein</value>
+            </option>
+            <option>
+              <name>Lithuania</name>
+              <value>Lithuania</value>
+            </option>
+            <option>
+              <name>Luxembourg</name>
+              <value>Luxembourg</value>
+            </option>
+            <option>
+              <name>Macau</name>
+              <value>Macau</value>
+            </option>
+            <option>
+              <name>Macedonia, The Former Yugoslav Republic Of</name>
+              <value>Macedonia, The Former Yugoslav Republic Of</value>
+            </option>
+            <option>
+              <name>Madagascar</name>
+              <value>Madagascar</value>
+            </option>
+            <option>
+              <name>Malawi</name>
+              <value>Malawi</value>
+            </option>
+            <option>
+              <name>Malaysia</name>
+              <value>Malaysia</value>
+            </option>
+            <option>
+              <name>Maldives</name>
+              <value>Maldives</value>
+            </option>
+            <option>
+              <name>Mali</name>
+              <value>Mali</value>
+            </option>
+            <option>
+              <name>Malta</name>
+              <value>Malta</value>
+            </option>
+            <option>
+              <name>Marshall Islands</name>
+              <value>Marshall Islands</value>
+            </option>
+            <option>
+              <name>Martinique</name>
+              <value>Martinique</value>
+            </option>
+            <option>
+              <name>Mauritania</name>
+              <value>Mauritania</value>
+            </option>
+            <option>
+              <name>Mauritius</name>
+              <value>Mauritius</value>
+            </option>
+            <option>
+              <name>Mayotte</name>
+              <value>Mayotte</value>
+            </option>
+            <option>
+              <name>Mexico</name>
+              <value>Mexico</value>
+            </option>
+            <option>
+              <name>Micronesia, Federated States Of</name>
+              <value>Micronesia, Federated States Of</value>
+            </option>
+            <option>
+              <name>Moldova, Republic Of</name>
+              <value>Moldova, Republic Of</value>
+            </option>
+            <option>
+              <name>Monaco</name>
+              <value>Monaco</value>
+            </option>
+            <option>
+              <name>Mongolia</name>
+              <value>Mongolia</value>
+            </option>
+            <option>
+              <name>Montenegro</name>
+              <value>Montenegro</value>
+            </option>
+            <option>
+              <name>Montserrat</name>
+              <value>Montserrat</value>
+            </option>
+            <option>
+              <name>Morocco</name>
+              <value>Morocco</value>
+            </option>
+            <option>
+              <name>Mozambique</name>
+              <value>Mozambique</value>
+            </option>
+            <option>
+              <name>Myanmar</name>
+              <value>Myanmar</value>
+            </option>
+            <option>
+              <name>Namibia</name>
+              <value>Namibia</value>
+            </option>
+            <option>
+              <name>Nauru</name>
+              <value>Nauru</value>
+            </option>
+            <option>
+              <name>Nepal</name>
+              <value>Nepal</value>
+            </option>
+            <option>
+              <name>Netherlands</name>
+              <value>Netherlands</value>
+            </option>
+            <option>
+              <name>Netherlands Antilles</name>
+              <value>Netherlands Antilles</value>
+            </option>
+            <option>
+              <name>New Caledonia</name>
+              <value>New Caledonia</value>
+            </option>
+            <option>
+              <name>New Zealand</name>
+              <value>New Zealand</value>
+            </option>
+            <option>
+              <name>Nicaragua</name>
+              <value>Nicaragua</value>
+            </option>
+            <option>
+              <name>Niger</name>
+              <value>Niger</value>
+            </option>
+            <option>
+              <name>Nigeria</name>
+              <value>Nigeria</value>
+            </option>
+            <option>
+              <name>Niue</name>
+              <value>Niue</value>
+            </option>
+            <option>
+              <name>Norfolk Island</name>
+              <value>Norfolk Island</value>
+            </option>
+            <option>
+              <name>Northern Mariana Islands</name>
+              <value>Northern Mariana Islands</value>
+            </option>
+            <option>
+              <name>Norway</name>
+              <value>Norway</value>
+            </option>
+            <option>
+              <name>Oman</name>
+              <value>Oman</value>
+            </option>
+            <option>
+              <name>Pakistan</name>
+              <value>Pakistan</value>
+            </option>
+            <option>
+              <name>Palau</name>
+              <value>Palau</value>
+            </option>
+            <option>
+              <name>Palestinian Territory, Occupied</name>
+              <value>Palestinian Territory, Occupied</value>
+            </option>
+            <option>
+              <name>Panama</name>
+              <value>Panama</value>
+            </option>
+            <option>
+              <name>Papua New Guinea</name>
+              <value>Papua New Guinea</value>
+            </option>
+            <option>
+              <name>Paraguay</name>
+              <value>Paraguay</value>
+            </option>
+            <option>
+              <name>Peru</name>
+              <value>Peru</value>
+            </option>
+            <option>
+              <name>Peter I Island</name>
+              <value>Peter I Island</value>
+            </option>
+            <option>
+              <name>Philippines</name>
+              <value>Philippines</value>
+            </option>
+            <option>
+              <name>Pitcairn</name>
+              <value>Pitcairn</value>
+            </option>
+            <option>
+              <name>Poland</name>
+              <value>Poland</value>
+            </option>
+            <option>
+              <name>Portugal</name>
+              <value>Portugal</value>
+            </option>
+            <option>
+              <name>Puerto Rico</name>
+              <value>Puerto Rico</value>
+            </option>
+            <option>
+              <name>Qatar</name>
+              <value>Qatar</value>
+            </option>
+            <option>
+              <name>Queen Maud Land</name>
+              <value>Queen Maud Land</value>
+            </option>
+            <option>
+              <name>Reunion</name>
+              <value>Reunion</value>
+            </option>
+            <option>
+              <name>Romania</name>
+              <value>Romania</value>
+            </option>
+            <option>
+              <name>Ross Dependency</name>
+              <value>Ross Dependency</value>
+            </option>
+            <option>
+              <name>Russian Federation</name>
+              <value>Russian Federation</value>
+            </option>
+            <option>
+              <name>Rwanda</name>
+              <value>Rwanda</value>
+            </option>
+            <option>
+              <name>Saint Barth?lemy</name>
+              <value>Saint Barth?lemy</value>
+            </option>
+            <option>
+              <name>Saint Helena</name>
+              <value>Saint Helena</value>
+            </option>
+            <option>
+              <name>Saint Kitts And Nevis</name>
+              <value>Saint Kitts And Nevis</value>
+            </option>
+            <option>
+              <name>Saint Lucia</name>
+              <value>Saint Lucia</value>
+            </option>
+            <option>
+              <name>Saint Martin (French part)</name>
+              <value>Saint Martin (French part)</value>
+            </option>
+            <option>
+              <name>Saint Pierre And Miquelon</name>
+              <value>Saint Pierre And Miquelon</value>
+            </option>
+            <option>
+              <name>Saint Vincent And The Grenadines</name>
+              <value>Saint Vincent And The Grenadines</value>
+            </option>
+            <option>
+              <name>Samoa</name>
+              <value>Samoa</value>
+            </option>
+            <option>
+              <name>San Marino</name>
+              <value>San Marino</value>
+            </option>
+            <option>
+              <name>Sao Tome And Principe</name>
+              <value>Sao Tome And Principe</value>
+            </option>
+            <option>
+              <name>Saudi Arabia</name>
+              <value>Saudi Arabia</value>
+            </option>
+            <option>
+              <name>Senegal</name>
+              <value>Senegal</value>
+            </option>
+            <option>
+              <name>Serbia</name>
+              <value>Serbia</value>
+            </option>
+            <option>
+              <name>Serbia And Montenegro</name>
+              <value>Serbia And Montenegro</value>
+            </option>
+            <option>
+              <name>Seychelles</name>
+              <value>Seychelles</value>
+            </option>
+            <option>
+              <name>Sierra Leone</name>
+              <value>Sierra Leone</value>
+            </option>
+            <option>
+              <name>Singapore</name>
+              <value>Singapore</value>
+            </option>
+            <option>
+              <name>Slovakia</name>
+              <value>Slovakia</value>
+            </option>
+            <option>
+              <name>Slovenia</name>
+              <value>Slovenia</value>
+            </option>
+            <option>
+              <name>Solomon Islands</name>
+              <value>Solomon Islands</value>
+            </option>
+            <option>
+              <name>Somalia</name>
+              <value>Somalia</value>
+            </option>
+            <option>
+              <name>South Africa</name>
+              <value>South Africa</value>
+            </option>
+            <option>
+              <name>South Georgia And The South Sandwich Islands</name>
+              <value>South Georgia And The South Sandwich Islands</value>
+            </option>
+            <option>
+              <name>Spain</name>
+              <value>Spain</value>
+            </option>
+            <option>
+              <name>Sri Lanka</name>
+              <value>Sri Lanka</value>
+            </option>
+            <option>
+              <name>Sudan</name>
+              <value>Sudan</value>
+            </option>
+            <option>
+              <name>Suriname</name>
+              <value>Suriname</value>
+            </option>
+            <option>
+              <name>Svalbard And Jan Mayen Islands</name>
+              <value>Svalbard And Jan Mayen Islands</value>
+            </option>
+            <option>
+              <name>Swaziland</name>
+              <value>Swaziland</value>
+            </option>
+            <option>
+              <name>Sweden</name>
+              <value>Sweden</value>
+            </option>
+            <option>
+              <name>Switzerland</name>
+              <value>Switzerland</value>
+            </option>
+            <option>
+              <name>Syrian Arab Republic</name>
+              <value>Syrian Arab Republic</value>
+            </option>
+            <option>
+              <name>Taiwan</name>
+              <value>Taiwan</value>
+            </option>
+            <option>
+              <name>Tajikistan</name>
+              <value>Tajikistan</value>
+            </option>
+            <option>
+              <name>Tanzania, United Republic Of</name>
+              <value>Tanzania, United Republic Of</value>
+            </option>
+            <option>
+              <name>Thailand</name>
+              <value>Thailand</value>
+            </option>
+            <option>
+              <name>Timor-Leste</name>
+              <value>Timor-Leste</value>
+            </option>
+            <option>
+              <name>Togo</name>
+              <value>Togo</value>
+            </option>
+            <option>
+              <name>Tokelau</name>
+              <value>Tokelau</value>
+            </option>
+            <option>
+              <name>Tonga</name>
+              <value>Tonga</value>
+            </option>
+            <option>
+              <name>Trinidad And Tobago</name>
+              <value>Trinidad And Tobago</value>
+            </option>
+            <option>
+              <name>Tunisia</name>
+              <value>Tunisia</value>
+            </option>
+            <option>
+              <name>Turkey</name>
+              <value>Turkey</value>
+            </option>
+            <option>
+              <name>Turkmenistan</name>
+              <value>Turkmenistan</value>
+            </option>
+            <option>
+              <name>Turks And Caicos Islands</name>
+              <value>Turks And Caicos Islands</value>
+            </option>
+            <option>
+              <name>Tuvalu</name>
+              <value>Tuvalu</value>
+            </option>
+            <option>
+              <name>Uganda</name>
+              <value>Uganda</value>
+            </option>
+            <option>
+              <name>Ukraine</name>
+              <value>Ukraine</value>
+            </option>
+            <option>
+              <name>United Arab Emirates</name>
+              <value>United Arab Emirates</value>
+            </option>
+            <option>
+              <name>United Kingdom</name>
+              <value>United Kingdom</value>
+            </option>
+            <option>
+              <name>United States</name>
+              <value>United States</value>
+            </option>
+            <option>
+              <name>United States Minor Outlying Islands</name>
+              <value>United States Minor Outlying Islands</value>
+            </option>
+            <option>
+              <name>Uruguay</name>
+              <value>Uruguay</value>
+            </option>
+            <option>
+              <name>Uzbekistan</name>
+              <value>Uzbekistan</value>
+            </option>
+            <option>
+              <name>Vanuatu</name>
+              <value>Vanuatu</value>
+            </option>
+            <option>
+              <name>Vatican City State (Holy See)</name>
+              <value>Vatican City State (Holy See)</value>
+            </option>
+            <option>
+              <name>Venezuela</name>
+              <value>Venezuela</value>
+            </option>
+            <option>
+              <name>Viet Nam</name>
+              <value>Viet Nam</value>
+            </option>
+            <option>
+              <name>Virgin Islands (British)</name>
+              <value>Virgin Islands (British)</value>
+            </option>
+            <option>
+              <name>Virgin Islands U.S.</name>
+              <value>Virgin Islands U.S.</value>
+            </option>
+            <option>
+              <name>Wallis And Futuna Islands</name>
+              <value>Wallis And Futuna Islands</value>
+            </option>
+            <option>
+              <name>Western Sahara</name>
+              <value>Western Sahara</value>
+            </option>
+            <option>
+              <name>Yemen</name>
+              <value>Yemen</value>
+            </option>
+            <option>
+              <name>Zambia</name>
+              <value>Zambia</value>
+            </option>
+            <option>
+              <name>Zimbabwe</name>
+              <value>Zimbabwe</value>
+            </option>
+          </options>
+        </validation>
+      </property>
+      <property>
+        <name>ZipCode</name>
+        <fullname>Zip/Post Code</fullname>
+        <mandatory>True</mandatory>
+        <value>LV-2167</value>
+        <category>General</category>
+        <description />
+        <sortorder>90</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute>postalCode</adattribute>
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>State</name>
+        <fullname>State</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category>Address</category>
+        <description />
+        <sortorder>70</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute>st</adattribute>
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>Phone</name>
+        <fullname>Phone Number</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category>Phone</category>
+        <description />
+        <sortorder>100</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>FAX</name>
+        <fullname>Fax Number</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category>Phone</category>
+        <description />
+        <sortorder>110</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>BillingID</name>
+        <fullname>Billing Identifier</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description />
+        <sortorder>120</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>UniqueBillingCode</name>
+          <type>SqlValidation</type>
+          <errormessage>The Billing ID is in use by a different customer</errormessage>
+          <value>&lt;query StoredProcedure="sp_CustomerBillingIDUnique"&gt;&lt;parameter name="@CustomerName" value="{CustomerShortName}" /&gt;&lt;parameter name="@BillingID" value="{UserInput}" /&gt;&lt;/query&gt;</value>
+        </validation>
+      </property>
+      <property>
+        <name>isPrepay</name>
+        <fullname>Prepay Customer</fullname>
+        <mandatory>False</mandatory>
+        <value>0</value>
+        <category />
+        <description />
+        <sortorder>130</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Enabled</name>
+          <type>Boolean</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>CurrencySymbol</name>
+        <fullname>Currency Symbol</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description />
+        <sortorder>140</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>LanguageCode</name>
+        <fullname>Language Code</fullname>
+        <mandatory>False</mandatory>
+        <value>1</value>
+        <category />
+        <description />
+        <sortorder>150</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Languages</name>
+          <type>SQLQueryDDL</type>
+          <errormessage>A language must be selected</errormessage>
+          <options>
+            <option>
+              <name>English</name>
+              <value>1</value>
+            </option>
+            <option>
+              <name>Dutch (Nederlands)</name>
+              <value>2</value>
+            </option>
+            <option>
+              <name>French</name>
+              <value>76</value>
+            </option>
+          </options>
+        </validation>
+      </property>
+      <property>
+        <name>MinimumPasswordLength</name>
+        <fullname>Minimum Password Length</fullname>
+        <mandatory>False</mandatory>
+        <value>7</value>
+        <category />
+        <description />
+        <sortorder>160</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>PasswordBannerDays</name>
+          <type>RangeValidator</type>
+          <errormessage>0 - 99999</errormessage>
+          <minimum>0</minimum>
+          <maximum>99999</maximum>
+        </validation>
+      </property>
+      <property>
+        <name>PasswordBannerDisplayDays</name>
+        <fullname>Password Banner Display Days</fullname>
+        <mandatory>False</mandatory>
+        <value>0</value>
+        <category />
+        <description />
+        <sortorder>160</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>PasswordBannerDays</name>
+          <type>RangeValidator</type>
+          <errormessage>0 - 99999</errormessage>
+          <minimum>0</minimum>
+          <maximum>99999</maximum>
+        </validation>
+      </property>
+      <property>
+        <name>isStandardUserView</name>
+        <fullname>Create New User</fullname>
+        <mandatory>False</mandatory>
+        <value>False</value>
+        <category />
+        <description />
+        <sortorder>170</sortorder>
+        <visible>True</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>StandardView</name>
+          <type>Boolean</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>APwdNExpire</name>
+        <fullname>APwdNExpire</fullname>
+        <mandatory>False</mandatory>
+        <value>0</value>
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>BankAccName</name>
+        <fullname>BankAccName</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>Name of the customers bank account</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>BankAccNo</name>
+        <fullname>BankAccNo</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>The customers bank account number</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>BusinessType</name>
+        <fullname>BusinessType</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>The customers business profile type</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>CPNL</name>
+        <fullname>CPNL</fullname>
+        <mandatory>False</mandatory>
+        <value>0</value>
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>DisabledUsers</name>
+        <fullname>DisabledUsers</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>DisabledUsers</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>DisplayShortName</name>
+        <fullname>DisplayShortName</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>ExonetVersion</name>
+        <fullname>ExonetVersion</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>Exonet version number of the customer</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>FssPackage</name>
+        <fullname>FssPackage</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>Package Name for File Sharing Service</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>GSTNo</name>
+        <fullname>GSTNo</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>GST number of the customer</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>OrganisationalStructure</name>
+        <fullname>OrganisationalStructure</fullname>
+        <mandatory>False</mandatory>
+        <value>ungrouped</value>
+        <category />
+        <description>Structure to store customer's users in AD</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>pwxAboutToExpire</name>
+        <fullname>pwxAboutToExpire</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>Used for e-mail configuration</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>pwxDays</name>
+        <fullname>pwxDays</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>Used for e-mail configuration</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>pwxDisabled</name>
+        <fullname>pwxDisabled</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>Used for e-mail configuration</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>pwxEmail</name>
+        <fullname>pwxEmail</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>send users details about the password expiry and a summary report to the administrator</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>pwxEmailAddress</name>
+        <fullname>pwxEmailAddress</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>Used for e-mail configuration</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>pwxExpired</name>
+        <fullname>pwxExpired</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>Used for e-mail configuration</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>pwxLanguageCode</name>
+        <fullname>pwxLanguageCode</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>The language for sending email to the admin</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>pwxLocked</name>
+        <fullname>pwxLocked</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>Used for e-mail configuration</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>pwxNeverExpire</name>
+        <fullname>pwxNeverExpire</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>Used for e-mail configuration</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>pwxSendNotificationReport</name>
+        <fullname>pwxSendNotificationReport</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>send the administrator the report about lockouts and password expiry etc.</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>Email configuration reports</name>
+        <fullname>Email configuration reports</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>Various Customer Properties</name>
+        <fullname>Various Customer Properties</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>Email   </name>
+        <fullname>Email   </fullname>
+        <mandatory>False</mandatory>
+        <value>aleksandrs.selickis@nervogrid.com</value>
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>CustomerOUPattern</name>
+        <fullname>CustomerOUPattern</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description>If not blank will overwrite the CustomerOUName</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>CustomerFullPath</name>
+        <fullname>CustomerFullPath</fullname>
+        <mandatory>False</mandatory>
+        <value>LDAP://OU=Demo Also(DA),OU=Customers,DC=pp-exchange,DC=local</value>
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>isDemoCustomer</name>
+        <fullname>isDemoCustomer</fullname>
+        <mandatory>False</mandatory>
+        <value>0</value>
+        <category />
+        <description>If checked this customer is a demo customer. A demo customer will be automatically deprovisioned and deleted after the expiry date.</description>
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>DemoStartDate</name>
+        <fullname>DemoStartDate</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>DemoExpiryDate</name>
+        <fullname>DemoExpiryDate</fullname>
+        <mandatory>False</mandatory>
+        <value />
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>UserDisplayNamePattern</name>
+        <fullname>UserDisplayNamePattern</fullname>
+        <mandatory>False</mandatory>
+        <value>{givenName} {sn}</value>
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>UserDefaultEmailPattern</name>
+        <fullname>UserDefaultEmailPattern</fullname>
+        <mandatory>False</mandatory>
+        <value>{userPrincipalName}</value>
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>Enabled</name>
+        <fullname>Enabled</fullname>
+        <mandatory>False</mandatory>
+        <value>True</value>
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+      <property>
+        <name>Email</name>
+        <fullname>Email</fullname>
+        <mandatory>False</mandatory>
+        <value>aleksandrs.selickis@nervogrid.com</value>
+        <category />
+        <description />
+        <sortorder>0</sortorder>
+        <visible>False</visible>
+        <readonly>False</readonly>
+        <adattribute />
+        <validation>
+          <name>Text</name>
+          <type>Text</type>
+          <errormessage />
+        </validation>
+      </property>
+    </properties>
+  </customer>
+</response>
