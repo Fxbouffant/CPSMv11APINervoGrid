@@ -12,6 +12,6 @@ Requests can be found under the CPSMv11APINervoGrid/CPSMv11APINervoGrid/Requests
 Responses can be found under the CPSMv11APINervoGrid/CPSMv11APINervoGrid/Responses directory.  
 
 ## Requests
-- [CustomerFindAll.xml](CPSMv11APINervoGrid/Requests/CustomerFindAll.xml)
-- [CustomerFind.xml](CPSMv11APINervoGrid/Requests/CustomerFind.xml)
-- [CustomerGet.xml](CPSMv11APINervoGrid/Requests/CustomerGet.xml)
+- [CustomerFindAll.xml](CPSMv11APINervoGrid/Requests/CustomerFindAll.xml) => Find every customer accessible
+- [CustomerFind.xml](CPSMv11APINervoGrid/Requests/CustomerFind.xml) => Find every customer match the criteria (name, id, fullname, primarydomain, status, ...)
+- [CustomerGet.xml](CPSMv11APINervoGrid/Requests/CustomerGet.xml) => Get precise information about a specific customer
