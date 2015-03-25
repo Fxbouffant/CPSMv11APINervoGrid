@@ -16,7 +16,12 @@ namespace CPSMv11APINervoGrid
                 Credentials = AdminCredentials
             };
 
-            foreach (string file in Directory.GetFiles("Requests"))
+            if (!Directory.Exists("Requests"))
+            {
+                Console.WriteLine("Requests folder not found.");
+                return;
+            }
+            foreach (string file in Directory.GetFiles("Requests", "*.xml"))
             {
                 using (StreamReader reader = new StreamReader(file))
                 {
