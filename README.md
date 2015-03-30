@@ -14,4 +14,6 @@ Responses can be found under the [Responses](CPSMv11APINervoGrid/Responses/) dir
 ## Requests
 - [CustomerFindAll.xml](CPSMv11APINervoGrid/Requests/CustomerFindAll.xml) => Find every customer accessible
 - [CustomerFind.xml](CPSMv11APINervoGrid/Requests/CustomerFind.xml) => Find every customer match the criteria (name, id, fullname, primarydomain, status, ...)
-- [CustomerGet.xml](CPSMv11APINervoGrid/Requests/CustomerGet.xml) => Get precise information about a specific customer
+- [CustomerGet.xml](CPSMv11APINervoGrid/Requests/CustomerGet.xml) => Get information about a specific customer
+- [CustomerGetProperties.xml](CPSMv11APINervoGrid/Requests/CustomerGetProperties.xml) => Get precise information about a specific customer
+- [CustomerCreate.xml](CPSMv11APINervoGrid/Requests/CustomerCreate.xml) => Information required to create a customer
