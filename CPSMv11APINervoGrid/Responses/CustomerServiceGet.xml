@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <response version="1.0">
   <customer>
-    <name>DA</name>
-    <id>23</id>
-    <fullname>Demo Also</fullname>
+    <name>TC</name>
+    <id>34</id>
+    <fullname>Test Customer 1</fullname>
     <location>Location GSP</location>
     <billingid />
-    <primarydomain>nervogrid.com</primarydomain>
+    <primarydomain>test2.local</primarydomain>
     <parent>
-      <name>Gsp</name>
-      <id>1</id>
-      <fullname>Globalsp</fullname>
+      <name>DA</name>
+      <id>23</id>
+      <fullname>Demo Also</fullname>
       <billingid />
-      <primarydomain>pp-exchange.local</primarydomain>
+      <primarydomain>nervogrid.com</primarydomain>
     </parent>
-    <contactname>Aleksandrs Selickis</contactname>
-    <contactemail>aleksandrs.selickis@nervogrid.com</contactemail>
+    <contactname>Germans Ribakovs</contactname>
+    <contactemail>germans.ribakovs@nervogrid.com</contactemail>
     <address>Liliju iela 29</address>
     <phone />
     <fax />
-    <customerou>Customers</customerou>
+    <customerou>Demo Also(DA),Customers</customerou>
     <customeroustructure>ungrouped</customeroustructure>
     <domains>
-      <domain>nervogrid.com</domain>
+      <domain>test2.local</domain>
     </domains>
     <locations>
       <name>Unassigned</name>
@@ -89,5 +89,80 @@
     <enabled>True</enabled>
     <status>Provisioned</status>
     <approvalpending>False</approvalpending>
+    <service>
+      <name>HE</name>
+      <fullname>Hosted Exchange</fullname>
+      <location>Location GSP</location>
+      <userlimit>Unlimited</userlimit>
+      <isbilled>True</isbilled>
+      <status>InProgress</status>
+      <approvalpending>False</approvalpending>
+      <authoritativedomains>
+        <domain>test2.local</domain>
+      </authoritativedomains>
+      <domains>
+        <domain type="authoritative">test2.local</domain>
+      </domains>
+      <UpdateEmailAddressPolicy>False</UpdateEmailAddressPolicy>
+      <customeraddressformats>
+        <customerwide>False</customerwide>
+        <address>
+          <example>FLastname@test2.local</example>
+          <domain>test2.local</domain>
+          <pattern>%1g%s</pattern>
+          <primary>False</primary>
+          <assigned>False</assigned>
+        </address>
+        <address>
+          <example>Firstname@test2.local</example>
+          <domain>test2.local</domain>
+          <pattern>%g</pattern>
+          <primary>False</primary>
+          <assigned>False</assigned>
+        </address>
+        <address>
+          <example>FirstnameL@test2.local</example>
+          <domain>test2.local</domain>
+          <pattern>%g%1s</pattern>
+          <primary>False</primary>
+          <assigned>False</assigned>
+        </address>
+        <address>
+          <example>Firstname.Lastname@test2.local</example>
+          <domain>test2.local</domain>
+          <pattern>%g.%s</pattern>
+          <primary>False</primary>
+          <assigned>False</assigned>
+        </address>
+      </customeraddressformats>
+      <version>2013</version>
+      <mailboxstoragelimit>Unlimited</mailboxstoragelimit>
+      <publicfolder>
+        <overridetemplate>True</overridetemplate>
+        <create>True</create>
+        <storagelimit>Unlimited</storagelimit>
+        <warninglimit>Unlimited</warninglimit>
+        <itemlimit>Unlimited</itemlimit>
+      </publicfolder>
+      <userpackage>
+        <name>FORFAIT_2GO_2013</name>
+        <fullname>Forfait_2Go_2013</fullname>
+        <userlimit>Unlimited</userlimit>
+        <used>False</used>
+        <enabled>True</enabled>
+      </userpackage>
+      <userpackage>
+        <name>FORFAIT_60GO_1AN</name>
+        <fullname>Forfait_60Go_1an</fullname>
+        <userlimit>Unlimited</userlimit>
+        <used>False</used>
+        <enabled>True</enabled>
+      </userpackage>
+      <package>
+        <name>Default</name>
+        <fullname>Default</fullname>
+        <enabled>True</enabled>
+      </package>
+    </service>
   </customer>
 </response>

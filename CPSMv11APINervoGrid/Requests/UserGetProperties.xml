@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<request action="GET" trace="true" version="1.0">
+  <customer>
+    <name>TC</name>
+    <user>
+      <name>User1</name>
+      <properties detail="true"/>
+    </user>
+  </customer>
+</request>

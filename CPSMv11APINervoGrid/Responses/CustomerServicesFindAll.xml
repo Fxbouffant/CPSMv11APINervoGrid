@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response version="1.0">
+  <customer>
+    <name>TC</name>
+    <id>34</id>
+    <fullname>Test Customer 1</fullname>
+    <billingid />
+    <primarydomain>test2.local</primarydomain>
+    <status>InProgress</status>
+    <approvalpending>False</approvalpending>
+    <service>
+      <name>Proxy</name>
+      <fullname>Customer Portal Settings</fullname>
+      <location>Location GSP</location>
+      <status>Provisioned</status>
+      <approvalpending>False</approvalpending>
+    </service>
+    <service>
+      <name>HE</name>
+      <fullname>Hosted Exchange</fullname>
+      <location>Location GSP</location>
+      <status>NotProvisioned</status>
+      <approvalpending>False</approvalpending>
+    </service>
+    <service>
+      <name>ServiceAdmins</name>
+      <fullname>Service Administration</fullname>
+      <location>Location GSP</location>
+      <status>NotProvisioned</status>
+      <approvalpending>False</approvalpending>
+    </service>
+  </customer>
+</response>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<request action="SET" trace="true" version="1.0">
+  <customer>
+    <name>TC</name>
+    <service>
+      <name>HE</name>
+      <authoritativedomains>
+        <domain>test2.local</domain>
+      </authoritativedomains>
+      <domains>
+        <domain type="authoritative">test2.local</domain>
+      </domains>
+      <publicfolder>
+        <overridetemplate>True</overridetemplate>
+        <create>True</create>
+        <storagelimit>Unlimited</storagelimit>
+        <warninglimit>Unlimited</warninglimit>
+        <itemlimit>Unlimited</itemlimit>
+      </publicfolder>
+    </service>
+  </customer>
+</request>

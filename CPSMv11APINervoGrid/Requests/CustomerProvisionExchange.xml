@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<request action="SET" trace="true" version="1.0">
+  <customer>
+    <name>TC</name>
+    <service>
+      <name>HE</name >
+      <version>2013</version>
+      <userpackage>
+        <name>FORFAIT_2GO_2013</name>
+        <enabled>True</enabled>
+      </userpackage>
+      <userpackage>
+        <name>FORFAIT_60GO_1AN</name>
+        <enabled>True</enabled>
+      </userpackage>
+      <package>
+        <name>Default</name>
+        <enabled>True</enabled>
+      </package>
+    </service>
+  </customer>
+</request>

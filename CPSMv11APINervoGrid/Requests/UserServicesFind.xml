@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<request action="FIND" trace="true" version="1.0">
+  <customer>
+    <name>TC</name>
+    <user>
+      <name>User1</name>
+      <service/>
+    </user>
+  </customer>
+</request>
