@@ -39,7 +39,7 @@ Responses can be found under the [Responses](CPSMv11APINervoGrid/Responses/) dir
 
 ## Status Request
 When sending a request and server provisioning is necessary, a server request is created and the API responds with a request ID. (Example Response: [CustomerProvisionExchange.xml](CPSMv11APINervoGrid/Responses/CustomerProvisionExchange.xml))
-The server request status can be queried using the request GetRequest.xml[Request](CPSMv11APINervoGrid/Requests/GetRequest.xml)[Response](CPSMv11APINervoGrid/Responses/GetRequest.xml).
+The server request status can be queried using the request GetRequest.xml [Request](CPSMv11APINervoGrid/Requests/GetRequest.xml) [Response](CPSMv11APINervoGrid/Responses/GetRequest.xml).
 
 The request status can be :
 - NotProvisioned
