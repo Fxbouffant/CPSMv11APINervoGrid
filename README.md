@@ -48,3 +48,9 @@ The request status can be :
 - Provisioned
 - Failed
 - Pending
+
+You should always wait for a customer service to be provisioned before provisioning it to a user.
+
+## Delete Users/Customers
+
+/!\ When deleting a user or customer, make sure its services are NotProvisioned otherwise it may result in a loss of information.
