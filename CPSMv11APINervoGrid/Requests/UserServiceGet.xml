@@ -3,7 +3,7 @@
   <customer>
     <name>TC</name>
     <user>
-      <name>User1</name>
+      <name>User1_TC</name>
       <service>
         <name>HE</name>
       </service>

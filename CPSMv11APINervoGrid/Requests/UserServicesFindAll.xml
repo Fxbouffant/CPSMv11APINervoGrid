@@ -3,8 +3,8 @@
   <customer>
     <name>TC</name>
     <user>
-      <name>User1</name>
-      <service/>
+      <name>User1_TC</name>
+      <service />
     </user>
   </customer>
 </request>

@@ -6,7 +6,7 @@
     <fullname>Test Customer 1</fullname>
     <billingid />
     <primarydomain>test2.local</primarydomain>
-    <status>InProgress</status>
+    <status>Provisioned</status>
     <approvalpending>False</approvalpending>
     <service>
       <name>Proxy</name>
@@ -19,7 +19,7 @@
       <name>HE</name>
       <fullname>Hosted Exchange</fullname>
       <location>Location GSP</location>
-      <status>NotProvisioned</status>
+      <status>Provisioned</status>
       <approvalpending>False</approvalpending>
     </service>
     <service>

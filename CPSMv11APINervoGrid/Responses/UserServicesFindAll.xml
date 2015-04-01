@@ -8,5 +8,21 @@
     <primarydomain>test2.local</primarydomain>
     <status>Provisioned</status>
     <approvalpending>False</approvalpending>
+    <user>
+      <name>User1_TC</name>
+      <id>113</id>
+      <fullname>User1</fullname>
+      <upn>User1_TC@test2.local</upn>
+      <location>Unassigned</location>
+      <department>Unassigned</department>
+      <status>NotProvisioned</status>
+      <approvalpending>False</approvalpending>
+      <service>
+        <name>HE</name>
+        <fullname>Hosted Exchange</fullname>
+        <status>NotProvisioned</status>
+        <approvalpending>False</approvalpending>
+      </service>
+    </user>
   </customer>
 </response>
