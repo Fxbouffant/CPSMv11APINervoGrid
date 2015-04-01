@@ -8,7 +8,7 @@ namespace CPSMv11APINervoGrid
     class Program
     {
         private const string ApiUrl = "https://pp-admin.cloudforyou.fr/cortexapi/default.aspx";
-        private static readonly NetworkCredential AdminCredentials = new NetworkCredential("aleksandrs.selickis@nervogrid.com", "LcF,dO=XFNK$");
+        private static readonly NetworkCredential AdminCredentials = new NetworkCredential("", "");
         private static readonly List<String> FileNames = new List<string>
         {
             "CustomerFindAll",
