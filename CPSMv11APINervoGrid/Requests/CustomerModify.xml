@@ -4,6 +4,7 @@
     <name>TC</name>
     <domains>
       <domain>test2.local</domain>
+      <domain>nervogrid.com</domain>
     </domains>
   </customer>
 </request>

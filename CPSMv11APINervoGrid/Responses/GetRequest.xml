@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response version="1.0">
+  <request>
+    <id>46009</id>
+    <type>Object Provision</type>
+    <name />
+    <description>Provision HE to Test Customer 1</description>
+    <status>Provisioned</status>
+    <object>
+      <type>Customer Service</type>
+      <name>HE</name>
+      <description>Hosted Exchange - Test Customer 1</description>
+      <status>Provisioned</status>
+    </object>
+  </request>
+</response>

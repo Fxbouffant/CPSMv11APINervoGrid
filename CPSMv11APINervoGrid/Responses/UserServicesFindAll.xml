@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response version="1.0">
+  <customer>
+    <name>TC</name>
+    <id>34</id>
+    <fullname>Test Customer 1</fullname>
+    <billingid />
+    <primarydomain>test2.local</primarydomain>
+    <status>Provisioned</status>
+    <approvalpending>False</approvalpending>
+  </customer>
+</response>

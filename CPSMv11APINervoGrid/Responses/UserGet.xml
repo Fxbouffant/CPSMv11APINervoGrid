@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<response version="1.0">
+  <customer>
+    <name>TC</name>
+    <id>34</id>
+    <fullname>Test Customer 1</fullname>
+    <location>Location GSP</location>
+    <billingid />
+    <primarydomain>test2.local</primarydomain>
+    <parent>
+      <name>DA</name>
+      <id>23</id>
+      <fullname>Demo Also</fullname>
+      <billingid />
+      <primarydomain>nervogrid.com</primarydomain>
+    </parent>
+    <contactname>Germans Ribakovs</contactname>
+    <contactemail>germans.ribakovs@nervogrid.com</contactemail>
+    <address>Liliju iela 29</address>
+    <phone />
+    <fax />
+    <customerou>Demo Also(DA),Customers</customerou>
+    <customeroustructure>ungrouped</customeroustructure>
+    <domains>
+      <domain>test2.local</domain>
+      <domain>nervogrid.com</domain>
+    </domains>
+    <locations>
+      <name>Unassigned</name>
+    </locations>
+    <departments>
+      <name>Unassigned</name>
+    </departments>
+    <password>
+      <minimumlength>7</minimumlength>
+      <bannerdisplaydays>0</bannerdisplaydays>
+      <changeatnextlogon>False</changeatnextlogon>
+      <allowneverexpires>False</allowneverexpires>
+    </password>
+    <roles>
+      <role id="{b1d29de6-01b4-4a29-bc88-9f61832dc5d3}">AD Sync Administrator</role>
+      <role id="{73f350bb-7c1f-4a10-9603-37f6b799c6e9}">Antispam avancÃ© Service Administrator</role>
+      <role id="{756d683d-0f2d-41f1-baf8-4233134a493a}">BlackBerry 5 Service Administrator</role>
+      <role id="{0676b4f2-a2e8-40ca-8d70-0e8bbcec786c}">Citrix Service Administrator</role>
+      <role id="{3186b9ff-1419-4b27-b729-57ed63b17c17}">CloudBackup Service Administrator</role>
+      <role id="{55f573ec-de0d-4c7c-b1d9-7a9620ca8be7}">CloudBackup User</role>
+      <role id="{ad279ab4-0429-40ec-b767-3f43a4490a05}">CRM 2011 Administrator</role>
+      <role id="{c27d3a7e-323f-4f3e-8fe7-3c385badd9aa}">CRM 2011 User</role>
+      <role id="{8b218c71-c026-4866-91f1-11b08cc46ab1}">Customer Administrator</role>
+      <role id="{540e42b6-4988-4af4-9fcc-1ae61583c2bc}">DNS Service Administrator</role>
+      <role id="{d9eb5104-fd74-4685-8578-beaccf77ebd1}">Exchange Service Administrator</role>
+      <role id="{3af09997-428e-40de-9fa1-c2c7f9446121}">Exchange Users</role>
+      <role id="{aaf4de5e-f48c-46fe-8c18-56ede6d01d4b}">FaxInMail Service Administrator</role>
+      <role id="{a73be498-c13d-47ad-a376-142be3072ced}">FaxInMail User</role>
+      <role id="{1817bb97-7dca-40fe-bbd8-abeecd55fa7c}">File Sharing Service Administrator</role>
+      <role id="{7e5f9f11-5566-4037-8440-0992d538b668}">Hosted Apps and Desktops Service Administrator</role>
+      <role id="{e0643988-deb2-4b0f-b28b-8017a7f5e7d8}">Hosted Apps and Desktops User</role>
+      <role id="{1c49c96b-54ba-4c39-b581-465c3e016cad}">Licences Outlook Service Administrator</role>
+      <role id="{76a9e6c9-35fe-43c9-986e-4c34f6ce73c4}">Lync Enterprise Service Administrator</role>
+      <role id="{b0c371eb-b238-4481-9328-7c07899face2}">Lync Enterprise User</role>
+      <role id="{4c5155d8-1acd-47f0-b8e7-273db87ea968}">Lync Hosted 2013 Service Administrator</role>
+      <role id="{80014ec0-8bb9-4b85-8e89-14c4a9c8707a}">Lync Hosted 2013 User</role>
+      <role id="{a36686dc-063d-4916-bac7-8a6b22d28a5a}">Mail Archiving Service Administrator</role>
+      <role id="{59790933-09dc-4de4-9f3a-905a64eb86dd}">Mobile Devices Service Administrator</role>
+      <role id="{9366d427-ce85-42b8-8b2d-c4b2958538e1}">Mobile Devices User</role>
+      <role id="{f4c80fa7-fb3a-459c-8588-df7e0341d074}">My CloudBackup Service</role>
+      <role id="{4650396d-0b7a-4273-a98f-13e834394883}">My Exchange Service</role>
+      <role id="{0797047a-397f-4398-b982-d0eec021d650}">MySQL Administrator</role>
+      <role id="{c0b2627d-408a-409f-9b22-c707fa5c53bc}">OCS Service Administrator</role>
+      <role id="{1c6db635-9d3b-4cf7-9308-369fa2587696}">OCS User</role>
+      <role id="{80c552f6-be9f-49cf-a237-a0b2ac3128c3}">Partial User Administrator (Reset Passwords)</role>
+      <role id="{bedf8364-4df8-4e68-82db-62c8b24b7a21}">RDS Service Administrator</role>
+      <role id="{99a7b56b-ea73-4b6a-9714-1b2335b00aaa}">RDS User</role>
+      <role id="{b4f2aee9-2630-4237-8013-6d245b44c48e}">Reporting Users</role>
+      <role id="{9d4348a8-34b1-4325-acde-7903dc0164a6}">Reseller Full Administrator</role>
+      <role id="{e571a437-86c2-4af6-9638-8c00b7d0d182}">Reseller Partial Administrator</role>
+      <role id="{b0c46225-0db7-4384-9304-1a299f57f2a0}">Service Administrator</role>
+      <role id="{1eb1b3ee-5c65-4bc7-a297-efb0dec08303}">SharePoint 2010 Service Administrator</role>
+      <role id="{87b89ee5-695d-48b9-942c-0c514d98b167}">SQL Service Administrator</role>
+      <role id="{2bc33a6b-ef15-41cd-91b1-ba14ddd817a8}">SQL Users</role>
+      <role id="{02051d46-1a97-495e-8be5-ae2ba30c0ae0}">Support Service Administrator</role>
+      <role id="{c3347ae9-c071-441a-8eea-b59075aea717}">Support User</role>
+      <role id="{ce7b2fe0-c2e2-4efb-b907-7c04efe70b75}">TestService Service Administrator</role>
+      <role id="{e1be686e-bb5a-48e6-8e66-3ae4969b40de}">TestService User</role>
+      <role id="{ba0fdafa-cc13-40ab-9a04-9799607ecb21}">User Administrator</role>
+      <role id="{35a4bc5f-59df-43e1-94e4-0bc706b33125}">User and Service Administrator</role>
+      <role id="{cd79e59d-c2f9-4e6f-a243-41f67e3f35ee}">Virtual Machine Administrator</role>
+      <role id="{54baeeaa-3c97-42f2-89fd-59f77cc82706}">Windows Web Hosting Service Administrator</role>
+    </roles>
+    <enabled>True</enabled>
+    <status>Provisioned</status>
+    <approvalpending>False</approvalpending>
+    <user>
+      <name>User1_TC</name>
+      <id>113</id>
+      <fullname>User1</fullname>
+      <upn>User1_TC@test2.local</upn>
+      <firstname>User1</firstname>
+      <lastname>Default Lastname</lastname>
+      <externalemail />
+      <location>Unassigned</location>
+      <department>Unassigned</department>
+      <phone />
+      <customfield1 />
+      <customfield2 />
+      <expires>Never</expires>
+      <legacyexchangedn />
+      <securityquestions />
+      <password>
+        <changeatnextlogon>False</changeatnextlogon>
+        <expires>20150512</expires>
+      </password>
+      <addresses>
+        <address primary="True">user1_tc@test2.local</address>
+      </addresses>
+      <x500proxyaddresses />
+      <roles>
+        <role id="{8b218c71-c026-4866-91f1-11b08cc46ab1}">Customer Administrator</role>
+        <role id="{d9eb5104-fd74-4685-8578-beaccf77ebd1}">Exchange Service Administrator</role>
+        <role id="{3af09997-428e-40de-9fa1-c2c7f9446121}">Exchange Users</role>
+        <role id="{4650396d-0b7a-4273-a98f-13e834394883}">My Exchange Service</role>
+        <role id="{80c552f6-be9f-49cf-a237-a0b2ac3128c3}">Partial User Administrator (Reset Passwords)</role>
+        <role id="{b4f2aee9-2630-4237-8013-6d245b44c48e}">Reporting Users</role>
+        <role id="{b0c46225-0db7-4384-9304-1a299f57f2a0}">Service Administrator</role>
+        <role id="{ba0fdafa-cc13-40ab-9a04-9799607ecb21}">User Administrator</role>
+        <role id="{35a4bc5f-59df-43e1-94e4-0bc706b33125}">User and Service Administrator</role>
+      </roles>
+      <locked>False</locked>
+      <enabled>True</enabled>
+      <status>Provisioned</status>
+      <approvalpending>False</approvalpending>
+    </user>
+  </customer>
+</response>
