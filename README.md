@@ -1,5 +1,5 @@
 # CPSMv11API
-[Citrix CloudPortal Services Manager](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAA&url=http%3A%2F%2Fwww.citrix.com%2Fproducts%2Fcloudportal-services-manager%2Foverview.html&ei=TZASVc-_HYKLaMCDgbgM&usg=AFQjCNGbdsOjhikhGm4huacReiqf5tzbFQ&sig2=o125heJONSem2lRIDRslDQ) API Samples
+[Citrix CloudPortal Services Manager](https://www.citrix.com/products/cloudportal-services-manager/) API Samples
 
 ## Program
 This program lets you send request to the Citrix CloudPortal Services Manager API hosted by [Global SP](http://www.globalsp.com/).
